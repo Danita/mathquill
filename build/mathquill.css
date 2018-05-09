@@ -384,6 +384,12 @@
   margin-top: 1px;
   padding-top: 0.15em;
 }
+.mq-math-mode .mq-widehat {
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'><g><g transform='matrix(1 0 0 -1 0 1008)'><path d='M500,766.1l490-490l-26.3-26.3L500,713.6L36.3,249.9L10,276.1L500,766.1z'/></g></g></svg>") no-repeat;
+  background-size: 100% 36%;
+  margin-top: 1px;
+  padding-top: 0.3em;
+}
 .mq-math-mode .mq-overarrow {
   min-width: .5em;
   border-top: 1px solid black;
